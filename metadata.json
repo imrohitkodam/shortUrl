@@ -1,0 +1,5 @@
+{
+  "name": "TinyLink URL Shortener",
+  "description": "A feature-rich URL shortener application built with React and Tailwind CSS, providing link creation, management, and statistics tracking. It mimics a full-stack application with a simulated backend.",
+  "requestFramePermissions": []
+}
